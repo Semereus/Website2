@@ -1,0 +1,153 @@
+/***********************TAG SECTION*****************************/
+h1 {
+  color: #76BA99;
+  width: 40%;
+  margin: 0 auto;
+  font-family: 'Allura', cursive;
+    font-size: 100px;
+    line-height: 1.57;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #DFF6FF;
+  font-size: 45px;
+}
+
+h3 {
+font-family: 'Source Sans Pro', sans-serif;
+color: #DFF6FF;
+font-size: 30px;
+}
+
+p {
+  font-family: 'Arima Madurai', cursive;
+  color: #DFF6FF;
+  font-size: 20px;
+}
+
+a {
+  font-family: 'Arima Madurai', cursive;
+  color: #DFF6FF;
+  font-size: 20px;
+  position: relative;
+  top: 10px;
+
+}
+
+
+/***********************CLASS SECTION*****************************/
+.top-container {
+  background-color: #DFF6FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+background-color: #76BA99;
+margin-top: 0;
+}
+
+.bio {
+  color: #76BA99;
+    font-size: 25px;
+    font-weight: normal;
+
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #120112 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container {
+background-color: #76BA99;
+}
+
+.fish {
+  position: absolute;
+  left: 200px;
+  bottom: 100px;
+}
+
+
+.coding-pic {
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.bird {
+  position: absolute;
+  right: 200px;
+  top: 100px;
+}
+
+.laughcat {
+  height: 400px;
+  width: 400px;
+}
+
+.lewis-profile {
+ height: 300px;
+ width: 300px;
+ margin-top: 10px;
+}
+
+.lewis-run {
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+
+}
+
+.annie-raymond {
+  float: left;
+  margin-right: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.footer-link {
+  position: relative;
+  top: 30px;
+}
+/***********************ID SECTION*****************************/
